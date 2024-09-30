@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalAndZoo/AnimalAndZoo.iml" filepath="$PROJECT_DIR$/AnimalAndZoo/AnimalAndZoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactAndPhoneBook/ContactAndPhoneBook.iml" filepath="$PROJECT_DIR$/ContactAndPhoneBook/ContactAndPhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeAndHRManager/EmployeeAndHRManager.iml" filepath="$PROJECT_DIR$/EmployeeAndHRManager/EmployeeAndHRManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameCharacter/GameCharacter.iml" filepath="$PROJECT_DIR$/GameCharacter/GameCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieAndCinema/MovieAndCinema.iml" filepath="$PROJECT_DIR$/MovieAndCinema/MovieAndCinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPTasks.iml" filepath="$PROJECT_DIR$/OOPTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SongAndPlaylist/SongAndPlaylist.iml" filepath="$PROJECT_DIR$/SongAndPlaylist/SongAndPlaylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
+    </modules>
+  </component>
+</project>
